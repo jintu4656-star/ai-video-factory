@@ -1,0 +1,10 @@
+{
+  "id": "YOUR_KAGGLE_USERNAME/ai-video-factory-runner",
+  "title": "ai-video-factory-runner",
+  "code_file": "main_pipeline.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true"
+}
