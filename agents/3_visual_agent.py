@@ -1,0 +1,1 @@
+Loads a quantized 8-bit/4-bit pipeline (FLUX.1-schnell or Wan2.1-T2V-1.3B via Hugging Face diffusers with pipe.enable_model_cpu_offload()), renders a 576x1024 (9:16) visual for each scene in script.json, and saves scene_1.mp4 ... scene_6.mp4.
