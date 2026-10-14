@@ -1,0 +1,9 @@
+google-genai
+kokoro>=0.9.4
+soundfile
+faster-whisper
+diffusers
+transformers
+accelerate
+moviepy
+requests
